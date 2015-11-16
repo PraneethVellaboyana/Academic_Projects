@@ -33,7 +33,7 @@ public class Business {
         return business;
     }
 
-    /**
+    /*
      * @return the masterOrderCatalog
      */
     public MasterOrderCatalog getMasterOrderCatalog() {
